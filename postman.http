@@ -1,0 +1,9 @@
+
+POST http://localhost:8080/api/v1/jogadores
+Content-Type: application/json
+
+{
+    "telefoneCelular":"+5511987654567",
+    "email":"jluna@gmail.com",
+    "nome":"Josafá Luna"
+}
